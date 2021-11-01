@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "path": "pages/hello/index",
+      "style": {
+        "navigationBarTitleText": "页面演示"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
